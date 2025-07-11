@@ -1,0 +1,4 @@
+{
+    "command": "flutter test",
+    "working_directory": "/home/kavia/workspace/code-generation/two-player-tic-tac-toe-d2cd2ebe/flutter_frontend"
+}
